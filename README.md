@@ -1,4 +1,5 @@
-### Greetings! there I'm Akhil 👋
+
+<h1 align="center"><b>### Greetings! there I'm Akhil</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 - 🎓 Bachelors in Digital Technology (Software)
 - 🔭 I’m currently trying to find new topics that interest me
