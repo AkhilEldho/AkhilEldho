@@ -14,8 +14,10 @@
 
 
 
-- Gamer ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
-- Connect with me <a href="https://www.linkedin.com/in/akhil-eldho/"><img src="https://img.shields.io/badge/Akhil_Eldhose-blue?logo=linkedin&style=flat-square"></a>
+- Gamer <br/>
+  ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
+- Connect with me <br/>
+  <a href="https://www.linkedin.com/in/akhil-eldho/"><img src="https://img.shields.io/badge/Akhil_Eldhose-blue?logo=linkedin&style=flat-square"></a>
 
 <h3>Things I use or have used</h3>
 
