@@ -7,11 +7,11 @@
 - 🎓 Bachelors in Digital Technology (Software)
 - 🔭 I’m currently trying to find new topics that interest me
 - 🌱 I’m currently looking for new ways to expand my knowledge 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about my journey into the world of software development and my favorite coding languages!
 - ⚡ Fun fact: I'm a huge fan of astronomy and love stargazing on clear nights.
 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
 
 
 - Gamer <br/>
